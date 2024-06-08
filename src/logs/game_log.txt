@@ -1,2 +1,1 @@
-Lose 
-You win - Tail 
+{"totalCount":4,"win":2,"lose":2}
